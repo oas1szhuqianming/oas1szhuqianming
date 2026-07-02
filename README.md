@@ -170,6 +170,3 @@
   <i>"Simplicity over complexity. Start simple, add complexity only when needed."</i><br/>
   — Anthropic, Building Effective Agents
 </p>
-
-- ⚡ Fun fact: ...
--->
