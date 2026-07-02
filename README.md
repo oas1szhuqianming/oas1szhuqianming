@@ -7,7 +7,7 @@
   4. 根据自身情况修改技术栈、项目链接、社交链接
 -->
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Qianming'Oas1s'Zhu</h1>
 <h3 align="center">AI Agent Developer | Building Multi-Agent Productivity Platform</h3>
 
 <p align="center">
@@ -20,9 +20,8 @@
 
 - 🔭 I'm currently building a **Multi-Agent Productivity Platform** using LangGraph + MCP
 - 🌱 I'm learning **AI Agent development** — from ReAct loops to multi-agent orchestration
-- 📝 I regularly write articles on [我的技术博客](https://your-blog-url.com)
 - 💬 Ask me about **Python, LLM APIs, LangGraph, Function Calling, MCP**
-- 📫 How to reach me: your.email@example.com
+- 📫 How to reach me: officialqianmingzhu@gmail.com
 - ⚡ Fun fact: I believe simple > complex, just like Anthropic's agent philosophy
 
 ---
@@ -136,12 +135,12 @@
 ## Learning Journey
 
 ```
-2026-07: M1 — Python + LLM API + Prompt Engineering        [██████████] 100%
-2026-08: M2 — Function Calling + ReAct + RAG               [██████████] 100%
-2026-09: M3 — LangGraph + MCP Protocol                     [████████░░]  80%
-2026-10: M4 — Multi-Agent Orchestration                    [██████░░░░]  60%
-2026-11: M5 — Productivity Platform MVP                    [████░░░░░░]  40%
-2026-12: M6 — Deploy + Blog + Resume                       [██░░░░░░░░]  20%
+2026-07: M1 — Python + LLM API + Prompt Engineering        [░░░░░░░░░░]  0%
+2026-08: M2 — Function Calling + ReAct + RAG               [░░░░░░░░░░]  0%
+2026-09: M3 — LangGraph + MCP Protocol                     [░░░░░░░░░░]  0%
+2026-10: M4 — Multi-Agent Orchestration                    [░░░░░░░░░░]  0%
+2026-11: M5 — Productivity Platform MVP                    [░░░░░░░░░░]  0%
+2026-12: M6 — Deploy + Blog + Resume                       [░░░░░░░░░░]  0%
 ```
 
 ---
@@ -149,28 +148,22 @@
 ## Connect with Me
 
 <p align="center">
-  <a href="https://github.com/[your-github-username]">
+  <a href="https://github.com/oas1sqianmingzhu">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/qianming-zhu-1a17913aa/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:officalqianmingzhu.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://your-blog-url.com">
-    <img src="https://img.shields.io/badge/Blog-FF7139?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[your-github-username]&style=flat-square&color=58a6ff" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/[your-github-username]?label=Followers&style=flat-square&color=58a6ff" />
+  <img src="https://komarev.com/ghpvc/?username=oas1szhuqianming&style=flat-square&color=58a6ff" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/oas1szhuqianming?label=Followers&style=flat-square&color=58a6ff" />
 </p>
 
 <p align="center">
